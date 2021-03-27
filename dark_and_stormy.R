@@ -1,3 +1,1 @@
-"It was a dark and stormy night."
-
-"please work"
+print("It was a dark and stormy night.")
